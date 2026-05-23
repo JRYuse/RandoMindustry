@@ -4,7 +4,7 @@ author: 飞雨
 
 java:true
 main: "RandoMindustry.RandoMindustry"
-minGameVersion: 150
+minGameVersion: 157.4
 version: 0.0.3
 description: "v0.0.3
 
