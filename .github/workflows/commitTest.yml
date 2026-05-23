@@ -20,7 +20,7 @@ jobs:
         java-version: '17'
         distribution: 'temurin'
 
-      name: Set up PATH
+    - name: Set up PATH
       run: |
           echo "${ANDROID_HOME}/build-tools/34.0.0" >> $GITHUB_PATH
     - name: Build mod jar
